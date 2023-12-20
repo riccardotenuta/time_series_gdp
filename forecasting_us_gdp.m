@@ -360,7 +360,6 @@ end
 plot(fore_ar_x, 'Color', 'red'); hold on;
 plot(delta_yt, 'Color','blue');
 title('AR(4)-X for \Delta_{y_t}');
-%shhshshhhsh
 
 % Transform AR(4)-X predictionns to log of GDP forecasts
 ar_x_yt = data_rw
